@@ -24,8 +24,21 @@ int request_number ()
     return number;
 }
 
-int main (void)
+void swap_number(int a,int b,int c)
 {
-    int picked_number = request_number();
-    prime_number(picked_number);
+    b = b + a ;
+    a = b - a ;
+    b = b - a;
+    c = c - b;
+    a = a + b;
+    printf("%i %i %i\n",a,b,c);
 }
+
+// int main (void)
+// {
+//     int picked_number = request_number();
+//     prime_number(picked_number);
+//     swap_number(10,20,30);
+//     return 0;
+// }
+

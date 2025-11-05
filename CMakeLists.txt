@@ -4,4 +4,6 @@ project(Language_C_pour_les_nuls C)
 set(CMAKE_C_STANDARD 11)
 
 add_executable(Language_C_pour_les_nuls
-        prime_number.c)
+        prime_number.c
+        TP_1.c
+)
