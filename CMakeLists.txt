@@ -6,4 +6,5 @@ set(CMAKE_C_STANDARD 11)
 add_executable(Language_C_pour_les_nuls
         prime_number.c
         TP_1.c
+        "Little ASCII conversion code .c"
 )

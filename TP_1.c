@@ -253,8 +253,10 @@ void exo_20()
     }
     printf("%i",compteur);
 }
-int main(void)
-{
+
+
+// int main(void)
+// {
     // exo_1();
     // exo_2();
     // exo_3(1,2);
@@ -263,9 +265,9 @@ int main(void)
     //exo_6(10,20);
     //exo_12(9);
     //exo_18();
-    exo_19();
-    exo_20();
+    // exo_19();
+    // exo_20();
 
-    return 0;
-}
+    // return 0;
+// }
 
