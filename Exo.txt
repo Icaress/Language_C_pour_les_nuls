@@ -1,1 +1,22 @@
 Exo 1 crée un programme qui nous permet de déduire si un nombre est premier;
+
+petite case cocher ✅ pour dire si c'est bon
+☐ Petit projet : crée un mini programme de calculatrice
+☐ Recrée un programme de calculatrice et les séparé en plusieur fichier (ex : math.c ,main.c)
+☐ écrire une fonction qui échange deux variables avec des pointeurs et en passant si vous êtes
+chaud vous pouvez essayer de pointer des tableaux
+☐ Crée un tableau dynamique dont la taille est choisie par l'utilisateur
+☐ crée une structure étudiante avec nom,age,moyenne et la stocker dans un tableau
+☐ crée un petit projet gestionnaire de fichier
+On crée une “todo list” en mémoire (tableau de structures).
+Fonctions possibles :
+Ajouter une tâche
+Supprimer une tâche
+Marquer une tâche comme faite
+Lister toutes les tâches
+Utilise des structures et tableaux pour stocker les données.
+Optionnel : trier les tâches ou afficher seulement celles non faites.
+💡 Ça te fait travailler : tableaux, structures, boucles, switch, fonctions.
+☐ crée un programme qui lit un fichier passé en argument et compte les lignes
+☐ Crée un petit jeu a l'aide de SDL
+☐ Une fonction ou tu crée un array a l'intérieur et qui te return le array demande le type,du tableau,et la taille
