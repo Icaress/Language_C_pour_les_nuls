@@ -10,4 +10,5 @@ add_executable(Language_C_pour_les_nuls
         "Petite calculette.c"
         "return table .c"
         "Homework 1 The twoerclock/The homework 1.c"
+        TD_2_Fonction_&_Procédure.c
 )
